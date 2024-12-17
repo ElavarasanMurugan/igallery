@@ -27,7 +27,6 @@ Publish the website in the given URL.
 ## PROGRAM :
 ```
 index.html
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -55,13 +54,14 @@ index.html
             margin: 0;
             padding: 0;
         }
-
+        body{
+            background-image: linear-gradient(to right,rgb(159, 154, 154),rgb(88, 87, 87),rgb(136, 131, 131));
+            }
         h1 {
             padding-top: 5px;
             padding-bottom: 5px;
             color: black;
             font-weight: 900;
-            background-image: linear-gradient(to left, rgb(90, 84, 84), whitesmoke);
             font-family: Montserrat;
             font-size: 40px;
             font-weight: bolder;
@@ -145,12 +145,10 @@ index.html
             font-size: 20px;
             font-family: Montserrat;
             text-align: center;
-            background-image: linear-gradient(to left, rgb(90, 84, 84), whitesmoke);
         }
         span{
-            color: rgb(0, 109, 109) ;
-            
-
+            color: rgb(255, 255, 255);
+            cursor: pointer;
         }
         .tt{
             font-weight: 500;
