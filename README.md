@@ -232,14 +232,14 @@ index.html
 </html>
 ```
 ## OUTPUT:
-![alt text](img.png)
-![alt text](img1.png)
-![alt text](img2.png)
-![alt text](img3.png)
-![alt text](img4.png)
-![alt text](img5.png)
-![alt text](img6.png)
-![alt text](img7.png)
-![alt text](img8.png)
+![alt text](<Screenshot (120).png>)
+![alt text](<Screenshot (121).png>)
+![alt text](<Screenshot (122).png>)
+![alt text](<Screenshot (123).png>)
+![alt text](<Screenshot (124).png>)
+![alt text](<Screenshot (125).png>)
+![alt text](<Screenshot (126).png>)
+![alt text](<Screenshot (127).png>)
+![alt text](<Screenshot (128).png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
